@@ -26,6 +26,7 @@ g++ -o pong pong.cpp -lsfml-graphics -lsfml-window -lsfml-system
 
 This implementation of AlonePong is written in C++ and uses the SFML (Simple and Fast Multimedia Library) for graphics and window management.
 
+
 ## Feedback and Contributions
 
 If you have any feedback, ideas for improvements, or if you'd like to contribute to this project, feel free to reach out. Your input is highly appreciated!
